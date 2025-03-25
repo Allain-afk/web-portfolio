@@ -9,7 +9,7 @@ import {
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { Link, NavLink } from 'react-router-dom'
 
-import LogoSubtitle from '../../assets/images/Allain.pngnp'
+import LogoSubtitle from '../../assets/images/Allain.png'
 import LogoS from '../../assets/images/logo-a.png'
 
 const Sidebar = () => {
